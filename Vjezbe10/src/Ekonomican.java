@@ -1,0 +1,4 @@
+interface Ekonomican {
+	
+    double potrosnjaPoKm(); 
+}
